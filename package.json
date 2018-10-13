@@ -1,0 +1,13 @@
+{
+  "name": "ecomerce",
+  "version": "1.0.0",
+  "description": "EcomerceAuto",
+  "main": "index.js",
+  "scripts": {
+    "test": "webdriver-manager update && protractor"
+  
+  },
+  "author": "HiltonOliveira",
+  "license": "ISC"
+}
+
